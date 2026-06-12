@@ -1,0 +1,14 @@
+C:\Users\Dulce Alejandra\Examen1\bin\Debug\net10.0\Examen1.exe
+C:\Users\Dulce Alejandra\Examen1\bin\Debug\net10.0\Examen1.deps.json
+C:\Users\Dulce Alejandra\Examen1\bin\Debug\net10.0\Examen1.runtimeconfig.json
+C:\Users\Dulce Alejandra\Examen1\bin\Debug\net10.0\Examen1.dll
+C:\Users\Dulce Alejandra\Examen1\bin\Debug\net10.0\Examen1.pdb
+C:\Users\Dulce Alejandra\Examen1\obj\Debug\net10.0\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dulce Alejandra\Examen1\obj\Debug\net10.0\Examen1.AssemblyInfoInputs.cache
+C:\Users\Dulce Alejandra\Examen1\obj\Debug\net10.0\Examen1.AssemblyInfo.cs
+C:\Users\Dulce Alejandra\Examen1\obj\Debug\net10.0\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\Dulce Alejandra\Examen1\obj\Debug\net10.0\Examen1.dll
+C:\Users\Dulce Alejandra\Examen1\obj\Debug\net10.0\refint\Examen1.dll
+C:\Users\Dulce Alejandra\Examen1\obj\Debug\net10.0\Examen1.pdb
+C:\Users\Dulce Alejandra\Examen1\obj\Debug\net10.0\Examen1.genruntimeconfig.cache
+C:\Users\Dulce Alejandra\Examen1\obj\Debug\net10.0\ref\Examen1.dll
